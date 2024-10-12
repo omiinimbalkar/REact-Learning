@@ -1,0 +1,12 @@
+Using Visual Studio:
+After committing, go to Team Explorer -> Sync.
+Click Push to upload the committed changes to your GitHub repository.
+Summary of Commands in CLI:
+
+
+>>Stage changes:
+git add .
+>>Commit changes:
+git commit -m "Your commit message"
+>>Push changes:
+git push origin master
