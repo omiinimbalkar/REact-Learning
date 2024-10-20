@@ -8,7 +8,7 @@ import CItem2 from "./Components/CItem2"
 function App() {
 
   return <center className='todo-container'> 
-  {/* instead of using class we use className */}
+  {/* instead of using classNamewe use className */}
     <Navbar/>
     <Appname/>
     <div className="align">

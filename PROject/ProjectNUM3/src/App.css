@@ -1,0 +1,28 @@
+.container-fluid{
+  background-color: rgb(240, 229, 107);
+}
+.kg-row{
+  margin: 10px 7px;
+  text-align: left;
+}
+h4{
+  font-weight: 100px;
+  font-size: 45px;
+  margin: 10px;
+  text-align: center;
+  
+}
+input {
+  width: 100%;
+}
+.align {
+ text-align: left;
+ 
+}
+button{
+  align-items: right;
+}
+
+.kg-button {
+  min-width: 80px;
+}
