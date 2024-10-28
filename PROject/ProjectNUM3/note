@@ -3,3 +3,12 @@
 2> next one compoenent we using one only we reuse in app.jsx
 
 3>directly pass date when acesing in app.jsx in like hardcoded so solution make array in app.jsx an for citem make one conatiner in component folder
+
+4> now visay ky kii we not getting the data which is in the app.jsx with const function !! so making that we do what use map function in TodoItem and do masti to get the dat of App.jsx const wala
+
+<!-- before tht we use Todo Item we cover Map and a Case senstivenss-->
+5>so create a module which one have css define example a h1 tag is okh so for that only we ned to create ok 4.11.08
+
+6> moving to new project calucluator ui
+
+7> before that this is version 2 of todolist to manage all this next version 3 we put actions on button how clicking get output like that ok!!

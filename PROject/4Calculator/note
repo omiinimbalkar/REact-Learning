@@ -1,0 +1,45 @@
+so as we start to making our 4 project ui with undestandig the concept and clearing it okh so go on
+
+1> we mae aproject file as usally 
+2>we create a app name
+3> some div inside the app.jsx
+4>changes
+5>and change the file name with the App.css into App.module.css okh
+6> import it into app.jsx  , and do changes okh and div give classname as the import name is give
+7>suppose we add bg in the using module format but showing no bg so leave that next go with the video 4:33:27
+8>adding some changes in module.css is looking little bit okh
+8> add mutliple button in app.jsx and just go wit changes and module class give to everywhere
+9>  no worry about name of class because we uisng modules
+10> so after all okh working we do a separtion of componenets okh that is how by creating inside components folder and small pice divdie each but after that one problem occurs direct ouput blank because we not use directly a  module soutside folders okh so that we see video on 4:42:47
+11>.so the questions come in mind ki what is problem so first before getting known the problem with youtube video lets check by own by the insecpt formula
+
+12> solution is  that ki tumla video bgcha if we creatre a separte display wala or button wla part so for that we need to make spertae module like module.css okh lets go onn 
+
+
+<!-- rouhgh after not working -->
+   {/* <center> */}
+    {/* ? 1 trick to use like this */}
+    {/* <div id="calcutor" className={Stylo}>   */}
+    {/* second */}
+    <div className={Stylo.calculator}>
+     {/* <AppName></AppName> */}
+     <h1>om</h1>
+     <div className={Stylo.buttoncontainer}>
+      <button className={bu.button}>1</button>
+      <button className={bu.button}>2</button>
+      <button className={bu.button}>3</button>
+      <button className={bu.button}>+</button>
+      <button className={bu.button}>C</button>
+      </div>
+     </div>
+     {/* </center> */}
+
+
+13> after sloving an usage amount of error and get a clear output by export error wrong spelling double spelling bla ballb so solving all
+cretaing each elemnt componets aand separted module.css okh moving forward
+
+14> so from all the number we  create inbside button conatiner file we create const function pass all number inside it complete our ui
+creating a list on buttoncontainer\
+
+15>start 
+16> same  ui is created 
