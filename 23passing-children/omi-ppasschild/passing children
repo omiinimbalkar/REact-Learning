@@ -1,0 +1,30 @@
+<!-- container -->
+
+so simple is ki its all page in output so we put into container so go with video 4:55:31
+
+1> create a componets with th e name container.jsx 
+and after thet
+
+2>we just codecd it function and return div 
+
+3>in app.jsx we use it as Container on place of fragments
+
+4> we het ooutput data as conatiner because we pass inside the dat divas conatiner okh 
+
+5> magic of props is to make get back data again is trick like shown in the codee at Conmatiner.jsx file goo thereee
+
+
+<!-- advantage -->
+6> adv is ki the conatiner dont known what data passs inside it
+7>next we make css file with module.css
+8>so what is that ki module is aim to id provide so same name ka visay no  issue 
+<!-- so congrats we complete our five hours jounery today 30-10-24 iyts okh ki time bhoth liya but okh ahe -->
+
+
+<!-- 30-10-2024  10.30 am-->
+9> container module add some css to it 
+10> so if we removee conatiner and add fragement sign on the place of app.jsx file code so that we return a same as before and question come ki what is use of conatainer
+
+11> so conatiner  means passing children concept says ki make on e conatiner we can give toi many other whicha aree same so its reusable okhh..!
+
+so we do changes in app.jsx make one more conatiner inside that we pass a paragraph of healty food and so on its all css and all same as first container so lets see in code output but error is occur then we just need add fragment and done!

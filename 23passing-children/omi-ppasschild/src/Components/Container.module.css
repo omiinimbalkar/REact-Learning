@@ -1,0 +1,18 @@
+.Conatiner{
+    border: 5px solid rgb(208, 162, 208);
+    /* border line  */
+    
+    margin: 15px;
+    /* so this o/p widow web page side manage */
+
+    width: 50%;
+    /* width ids to size of the conatiner */
+
+    border-radius: 15px;
+    /* border curveness  */
+
+    min-width: 400px;
+
+    padding: 15px;
+    /* is use to paddinmg for side of the conatiner */
+}
